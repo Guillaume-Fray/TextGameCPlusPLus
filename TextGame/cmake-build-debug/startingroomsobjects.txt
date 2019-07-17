@@ -1,0 +1,8 @@
+Room_1 penknife
+Dark_Room bigKey
+Dark_Room rope
+Weird_Corridor flask
+Strange_Room battery
+Spherical_Room magnifying_glass
+Cubic_Room apple
+Red_Room lamp

@@ -1,0 +1,2 @@
+Room_1 apple
+Weird_Corridor lamp

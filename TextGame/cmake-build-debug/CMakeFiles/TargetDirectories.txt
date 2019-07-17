@@ -1,0 +1,3 @@
+/Users/guillaumefray/CLionProjects/TextGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/guillaumefray/CLionProjects/TextGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/guillaumefray/CLionProjects/TextGame/cmake-build-debug/CMakeFiles/textadv.dir

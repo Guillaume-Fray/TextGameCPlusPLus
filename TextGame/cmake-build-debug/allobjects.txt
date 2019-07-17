@@ -1,0 +1,6 @@
+bigKey
+flask
+rope
+penknife
+lighter
+cigarettes
